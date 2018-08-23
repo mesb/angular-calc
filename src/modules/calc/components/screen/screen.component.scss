@@ -1,0 +1,16 @@
+article {
+  display: flex;
+  justify-content: center;
+
+  .mat-card {
+    // height: px;
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+    background: #b388ff;
+    // background: #b3e5fc;
+    // color: #1a237e;
+    color: #efebe9;
+  }
+
+}

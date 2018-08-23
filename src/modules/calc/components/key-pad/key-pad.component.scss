@@ -1,0 +1,16 @@
+article {
+  display: flex;
+  justify-content: center;
+
+  .mat-card {
+    width: 80%;
+    // background: #311b92;
+     background: #039be5;
+
+    // border: 1px solid blue;
+    .mat-grid-tile {
+      background: #311b92;
+      color: white;
+    }
+  }
+}
